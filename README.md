@@ -1,7 +1,7 @@
 # FastAPI-JWT-Auth
 
 ### Installation
-The easiest way to start working with this exemple:
+The easiest way to start working with this exemple:<br>
 `pip install - r requirements.txt`
 
 
